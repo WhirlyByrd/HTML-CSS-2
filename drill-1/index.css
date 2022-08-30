@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    justify-content: center;
+
+    
+}
+
+
+header > div {
+    height: 150px;
+    background-color: #444;
+    top: 0%;
+}
+#wrapper {
+    background-color: #D8D8D8;
+    display: flex;
+    justify-content: center;
+
+
+    
+
+}
+
+#white {
+    width: 700px;
+    height: 700px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    
+
+}
+ #grey {
+    height: 200px;
+    background-color: #444;
+    bottom:0%;
+} 

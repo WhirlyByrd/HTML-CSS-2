@@ -1,0 +1,46 @@
+body {
+    margin: 0%;
+}
+
+header {
+    height: 100px;
+    background-color: rgb(219, 219, 219);
+    margin: 0%;
+    width: auto;
+    display: flex;
+    
+    align-items: center;
+
+}
+
+#logo {
+    background-color: rgb(105, 176, 252);
+    height: 70px;
+    width: 70px;
+    margin-left: 2%; 
+    
+}
+
+#rowOne {
+    padding: 3%;
+}
+
+#darkBlue{
+    height: 150px;
+    background-color:#5B8FDC; 
+}
+
+#lightBlue{
+    height: 150px;
+    background-color:#7BE0C3; 
+}
+
+#green{
+    height: 150px;
+    background-color: #C2E791;
+}
+
+#yellow{
+    height:150px;
+    background-color:#F5E752 ;
+}
